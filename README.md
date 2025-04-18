@@ -7,7 +7,7 @@ A Spring Boot backend project that retrieves and ranks news articles from a loca
 ## 🚀 Features
 
 - 🌐 RESTful API endpoints
-- 🧠 Integration with Gemini (or OpenAI) to:
+- 🧠 Integration with Gemini to:
   - Extract entities & user intent from queries
   - Generate summaries of news articles
 - 📚 Article filtering by:
